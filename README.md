@@ -2,10 +2,12 @@
 
 ### System Administrator | Python Newbie | Cyber Security
 
+<hr style="width:50%;text-align:left;margin-left:0">
+
 <!--
 **hawksb72/hawksb72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<hr style="width:50%;text-align:left;margin-left:0">
+
 
 Here are some ideas to get you started:
 
