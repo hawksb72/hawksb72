@@ -12,7 +12,7 @@ Thank you for visiting my GitHub page. I am excited to continue sharing my journ
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
-####:computer: Systems, Languages and Tools :computer:
+#### :computer: Systems, Languages and Tools :computer:
 
 <img align="left" alt="java" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="java" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
