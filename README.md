@@ -20,3 +20,4 @@ Thank you for visiting my GitHub page. I am excited to continue sharing my journ
 <img align="left" alt="java" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
 <img align="left" alt="java" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="java" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+<img align="left" alt="java" width="60px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg"/>
